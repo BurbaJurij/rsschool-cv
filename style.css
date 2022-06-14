@@ -1,0 +1,41 @@
+body {
+    display: flex;
+    background-color: aquamarine;
+    position: relative;
+    margin: 20px;
+    padding: 0px;
+}
+.photo {
+  border-radius: 100px;
+  border: 2px solid black;
+}
+.aboutMe {
+width: 180px;
+font-size: 12px;
+margin: 0%;
+font-style: italic;
+}
+.story {
+text-align: left;
+}
+main {
+padding: top;
+margin: 50px;
+top: 100px;
+font-style: italic;
+}
+.end {
+position: relative;
+top: 350px;
+right: 1200px;
+}
+.year {
+position: relative;
+top: 330px;
+right: 600px;
+}
+.git {
+position: relative;
+top: 250px;
+right: 50px;
+}
